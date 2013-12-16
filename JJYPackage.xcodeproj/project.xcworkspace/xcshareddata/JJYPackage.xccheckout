@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FF6D6F4E-60A7-41B0-B3C2-91331A6D452C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JJYPackage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A060D2F-978E-4EBB-98B8-EE3B664227FA</key>
+		<string>https://github.com/jijunyuan/JJYPackage.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JJYPackage.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A060D2F-978E-4EBB-98B8-EE3B664227FA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jijunyuan/JJYPackage.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A060D2F-978E-4EBB-98B8-EE3B664227FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A060D2F-978E-4EBB-98B8-EE3B664227FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JJYPackage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
