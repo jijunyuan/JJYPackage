@@ -12,8 +12,12 @@
 static char * alertKey;
 //8888888888
 //7777777777
+<<<<<<< HEAD
 //6666666666
 //5555555555
+=======
+//test 55555555
+>>>>>>> 945b6edfde236e6c31c89311acfcd21e3483f1eb
 @interface UIAlertViewBlock()
 @end
 @implementation UIAlertViewBlock
