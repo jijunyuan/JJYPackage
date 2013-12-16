@@ -16,7 +16,6 @@ static char * alertKey;
 @implementation UIAlertViewBlock
 
 //*********************
-// test
 // *********************
 
 +(void)AlertViewTitle:(NSString *)aTitle message:(NSString *)aMsg cancleButtonTitle:(NSString *)aButtonTitle sureButtonTitle:(NSString *)aSureButton andTwoButton:(BOOL)isTwo sureBlockEvent:(Block_SureEvent)aSureEvent
