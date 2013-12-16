@@ -11,13 +11,6 @@
 
 static char * alertKey;
 
-//8888888888
-//7777777777
-//6666666666
-//5555555555
-//test 55555555
-//test 55555555
-// 444444444444
 @interface UIAlertViewBlock()
 @end
 @implementation UIAlertViewBlock
